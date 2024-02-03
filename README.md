@@ -1,1 +1,1 @@
-# Goodreads-Books-Analysis
+Exploratory Data Analysis (EDA) and Visualization of Goodreads Books Collection (1980-2023) using Python. Uncover insights into book ratings, genres, author prolificacy, and more through interactive visualizations and data-driven analyses
